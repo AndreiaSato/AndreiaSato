@@ -7,3 +7,4 @@
 - 💬 Incluída em um projeto sobre Detecção de Objetos/ Yolo e OpenCv
 - 😄 Pronouns: ela/dela
   
+
