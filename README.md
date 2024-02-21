@@ -11,8 +11,8 @@
 
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiaSato&show_icons=true&theme=flag-india)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaSato)](https://github.com/AndreiaSato/github-readme-stats-theme=rose)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreiaSato&show_icons=true&theme=transparent&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaSato&theme=transparent&count_private=true)](https://github.com/AndreiaSato/github-readme-stats)
 
 
 
